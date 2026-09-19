@@ -1,0 +1,11 @@
+Newton's Method will now be performed using initial value x = 10 for epsilon = 10^-6, 10^-7, 10^-8, 10^-9, 10^-10:
+The value of the root using Newton's Method using epsilon = 10^-6 is 8.653727912911013
+The number of iterations is 4
+The value of the root using Newton's Method using epsilon = 10^-7 is 8.653727912911013
+The number of iterations is 4
+The value of the root using Newton's Method using epsilon = 10^-8 is 8.653727912911013
+The number of iterations is 4
+The value of the root using Newton's Method using epsilon = 10^-9 is 8.653727912911013
+The number of iterations is 4
+The value of the root using Newton's Method using epsilon = 10^-10 is 8.653727912911013
+The number of iterations is 4
